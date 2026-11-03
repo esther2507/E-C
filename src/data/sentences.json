@@ -1,0 +1,51 @@
+{
+  "board1_simple": [
+    {
+      "id": "s1_1",
+      "text": "שׁוּלַמִּית מְצַיֶּרֶת בַּיִת",
+      "correctImage": "/assets/images/sentences/shulamit_house.png",
+      "distractors": [
+        "/assets/images/sentences/shulamit_tree.png",
+        "/assets/images/sentences/boy_house.png"
+      ]
+    },
+    {
+      "id": "s1_2",
+      "text": "שִׁמְעוֹן נָהַג בַּמְּכוֹנִית הָאֲדֻמָּה",
+      "correctImage": "/assets/images/sentences/shimon_red_car.png",
+      "distractors": [
+        "/assets/images/sentences/shimon_blue_car.png",
+        "/assets/images/sentences/shimon_bike.png"
+      ]
+    },
+    {
+      "id": "s1_3",
+      "text": "דְּבוֹרָה סָגְרָה אֶת הַחַלּוֹן",
+      "correctImage": "/assets/images/sentences/dvorah_close_window.png",
+      "distractors": [
+        "/assets/images/sentences/dvorah_open_window.png",
+        "/assets/images/sentences/dvorah_door.png"
+      ]
+    },
+    {
+      "id": "s1_4",
+      "text": "שׁוּקִי רָכַב עַל הָאוֹפַנַּיִם",
+      "correctImage": "/assets/images/sentences/shuki_bike.png",
+      "distractors": [
+        "/assets/images/sentences/shuki_walk.png",
+        "/assets/images/sentences/shuki_car.png"
+      ]
+    }
+  ],
+  "board2_complex": [
+    {
+      "id": "s2_1",
+      "image": "/assets/images/sentences/mom_moshie_book.png",
+      "options": [
+        { "id": "opt1", "text": "אִמָּה מַלְבִּישָׁה אֶת מוֹיְשִׁי", "isCorrect": false },
+        { "id": "opt2", "text": "אִמָּה מַאֲכִילָה אֶת מוֹיְשִׁי", "isCorrect": false },
+        { "id": "opt3", "text": "אִמָּה מְשַׂחֶקֶת עִם מוֹיְשִׁי וּמְסַפֶּרֶת לוֹ סִפּוּר", "isCorrect": true }
+      ]
+    }
+  ]
+}
